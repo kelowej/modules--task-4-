@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "hello": "echo \"hdsddedddddddsdsdlloaa NPM\""
+    "hello": "echo \"test-7 NPM\""
   },
   "author": "kuba",
   "license": "MIT",
